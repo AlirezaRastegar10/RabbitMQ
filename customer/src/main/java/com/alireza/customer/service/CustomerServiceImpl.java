@@ -1,7 +1,6 @@
 package com.alireza.customer.service;
 
-
-import com.alireza.amqp.producer.RabbitMQMessageProducer;
+import com.alireza.customer.producer.RabbitMQMessageProducer;
 import com.alireza.customer.client.FraudClient;
 import com.alireza.customer.dto.customer.CustomerRequest;
 import com.alireza.customer.dto.customer.CustomerResponse;

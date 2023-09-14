@@ -1,5 +1,4 @@
-package com.alireza.amqp.producer;
-
+package com.alireza.customer.producer;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
